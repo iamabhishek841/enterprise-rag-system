@@ -180,7 +180,7 @@ def retrieve_context(docs, query, top_k=3):
 # ============================================================
 def call_gemini(query, context_docs, user_name, user_role, api_key):
     genai.configure(api_key=api_key)
-    model = genai.GenerativeModel("gemini-2.0-flash")
+    model = genai.GenerativeModel("gemini-1.5-flash-latest")
 
     if context_docs:
         ctx = "\n\n---\n\n".join([
