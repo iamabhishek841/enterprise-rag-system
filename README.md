@@ -2,7 +2,7 @@
 
 > Secure, context-aware RAG system with RBAC enforcement — built for enterprise data silos.
 
-🔗 **Live Demo:** [Click here]([https://your-app.streamlit.app](https://enterprise-rag-system-abhi.streamlit.app/))
+🔗 **Live Demo:** [Click here](https://enterprise-rag-system-abhi.streamlit.app/)
 
 ---
 
